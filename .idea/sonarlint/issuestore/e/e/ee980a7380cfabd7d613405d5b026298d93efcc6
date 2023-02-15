@@ -1,0 +1,13 @@
+
+[	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(›Âà¨
+i
+java:S1192("NDefine a constant instead of duplicating this literal "Customer [Id:" 4 times.(¬Ö¹Øüÿÿÿÿ
+p
+java:S1192("UDefine a constant instead of duplicating this literal "] [Current Balance: " 4 times.(¬Ö¹Øüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(é®ıÚ
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8§´ë—å0
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(çğÄúÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(úİÿÔ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(“¯—µ
+N	java:S106F"9Replace this use of System.out or System.err by a logger.(°½ö¬
+N	java:S106G"9Replace this use of System.out or System.err by a logger.( ê
